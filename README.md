@@ -15,7 +15,7 @@ This project provides a straightforward solution for analyzing YouTube videos an
 ### Video Downloads
 - Download videos in original quality (4K, 1440p, 1080p, 720p, and lower resolutions when available)
 - Support for multiple formats depending on video availability
-- Save video thumbnails in the highest available resolution
+
 
 ### Audio Downloads
 - Extract audio-only files from videos
