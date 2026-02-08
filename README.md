@@ -13,7 +13,7 @@ Explain how high-quality audio output is maintained during extraction.
 Describe downloading subtitles and closed captions.
 Explain how subtitles help learners, researchers, and accessibility users.
 
-
+Show the clean, distraction-free dark interface.
 
 
 
