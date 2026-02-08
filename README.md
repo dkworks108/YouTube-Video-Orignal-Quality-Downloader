@@ -6,7 +6,7 @@ Give a high-level overview of what the application does and how users interact w
 Explain how the app analyzes a YouTube video and fetches available formats.
 
 
-
+Describe support for 4K, 1440p, 1080p, 720p, 480p, and lower resolutions.
 
 
 
