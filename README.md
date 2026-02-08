@@ -19,6 +19,10 @@ Explain preview features: title, duration, and thumbnail before downloading.
 
 
 Explain how the UI works smoothly on desktop, tablet, and mobile.
+Describe the step-by-step process: paste link → analyze → choose format → download.
+
+
+
 
 
 
