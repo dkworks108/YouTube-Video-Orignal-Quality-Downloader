@@ -24,7 +24,15 @@ Explain how the app stays fast and lightweight with minimal dependencies.
 
 Mention optimization for modern web browsers and stable execution.
 
+Explain the tech used:
 
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+Modern Web APIs
 
 
 
