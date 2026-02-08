@@ -34,7 +34,7 @@ JavaScript (ES6+)
 
 Modern Web APIs
 
-
+Conclude with upcoming features, performance improvements, and future updates.
 
 
 
