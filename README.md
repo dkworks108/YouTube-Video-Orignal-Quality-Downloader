@@ -1,5 +1,25 @@
 Introduce the project as a free, modern, and lightweight YouTube video downloader focused on simplicity and usability.
 Explain the common problems with existing downloaders: ads, complexity, slow speed, and poor UI.
+State the main goal: download YouTube videos in original quality with a clean and fast experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Free YouTube Video Original Quality Downloader
 
