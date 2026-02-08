@@ -11,7 +11,7 @@ Explain how different formats are shown depending on video availability.
 Introduce audio extraction for podcasts, music, and learning content.
 Explain how high-quality audio output is maintained during extraction.
 Describe downloading subtitles and closed captions.
-
+Explain how subtitles help learners, researchers, and accessibility users.
 
 
 
