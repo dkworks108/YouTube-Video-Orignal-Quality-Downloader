@@ -1,3 +1,6 @@
+Introduce the project as a free, modern, and lightweight YouTube video downloader focused on simplicity and usability.
+
+
 # Free YouTube Video Original Quality Downloader
 
 A modern and lightweight YouTube video downloader focused on simplicity, performance, and usability. The application allows users to download videos in their highest available quality and extract audio efficiently, while maintaining a clean and responsive user experience across devices.
