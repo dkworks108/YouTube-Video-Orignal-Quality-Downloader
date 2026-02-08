@@ -15,6 +15,7 @@ Explain how subtitles help learners, researchers, and accessibility users.
 
 Show the clean, distraction-free dark interface.
 
+Explain preview features: title, duration, and thumbnail before downloading.
 
 
 Explain how the UI works smoothly on desktop, tablet, and mobile.
