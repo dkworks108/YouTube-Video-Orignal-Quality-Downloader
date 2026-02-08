@@ -8,7 +8,7 @@ Explain how the app analyzes a YouTube video and fetches available formats.
 
 Describe support for 4K, 1440p, 1080p, 720p, 480p, and lower resolutions.
 Explain how different formats are shown depending on video availability.
-
+Introduce audio extraction for podcasts, music, and learning content.
 
 
 
