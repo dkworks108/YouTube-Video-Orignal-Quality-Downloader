@@ -3,7 +3,7 @@ Explain the common problems with existing downloaders: ads, complexity, slow spe
 State the main goal: download YouTube videos in original quality with a clean and fast experience.
 Mention who this project is for: students, learners, content creators, and everyday users.
 Give a high-level overview of what the application does and how users interact with it.
-
+Explain how the app analyzes a YouTube video and fetches available formats.
 
 
 
