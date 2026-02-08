@@ -10,7 +10,7 @@ Describe support for 4K, 1440p, 1080p, 720p, 480p, and lower resolutions.
 Explain how different formats are shown depending on video availability.
 Introduce audio extraction for podcasts, music, and learning content.
 Explain how high-quality audio output is maintained during extraction.
-
+Describe downloading subtitles and closed captions.
 
 
 
