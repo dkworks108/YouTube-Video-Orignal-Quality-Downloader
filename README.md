@@ -17,7 +17,7 @@ Show the clean, distraction-free dark interface.
 
 
 
-
+Explain how the UI works smoothly on desktop, tablet, and mobile.
 
 
 
