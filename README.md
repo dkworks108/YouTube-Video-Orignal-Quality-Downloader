@@ -45,7 +45,7 @@ Designed for students, content creators, and power users, the application focuse
 
 ---
 
-## 💻 Technology Stack
+## new Technology Stack
 
 To ensure a production-grade and scalable foundation, the project utilizes a lean, professional stack:
 * **JavaScript (ES6+):** Handling complex asynchronous operations, Fetch API requests, and DOM manipulation.
