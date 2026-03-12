@@ -1,4 +1,4 @@
-# 🚀 Ultra-Lightweight YouTube Media Engine: Original Quality Downloader
+#  Ultra-Lightweight YouTube Media Engine: Original Quality Downloader
 
 A high-performance, modern web application engineered to retrieve YouTube media in its raw, original fidelity. This project eliminates the "bloat" of traditional tools, offering a clean, distraction-free interface for extracting high-resolution video, high-bitrate audio, and critical metadata with zero friction.
 
